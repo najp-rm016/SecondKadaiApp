@@ -11,6 +11,7 @@
 		65C6334B2B5FA78E00B735A1 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C6334A2B5FA78E00B735A1 /* ContentView.swift */; };
 		65C6334D2B5FA79100B735A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65C6334C2B5FA79100B735A1 /* Assets.xcassets */; };
 		65C633502B5FA79100B735A1 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 65C6334F2B5FA79100B735A1 /* Preview Assets.xcassets */; };
+		65C633572B5FAC5A00B735A1 /* SecondView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 65C633562B5FAC5A00B735A1 /* SecondView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		65C6334A2B5FA78E00B735A1 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		65C6334C2B5FA79100B735A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		65C6334F2B5FA79100B735A1 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		65C633562B5FAC5A00B735A1 /* SecondView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				65C633482B5FA78E00B735A1 /* SlideshowAppApp.swift */,
 				65C6334A2B5FA78E00B735A1 /* ContentView.swift */,
+				65C633562B5FAC5A00B735A1 /* SecondView.swift */,
 				65C6334C2B5FA79100B735A1 /* Assets.xcassets */,
 				65C6334E2B5FA79100B735A1 /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				65C633572B5FAC5A00B735A1 /* SecondView.swift in Sources */,
 				65C6334B2B5FA78E00B735A1 /* ContentView.swift in Sources */,
 				65C633492B5FA78E00B735A1 /* SlideshowAppApp.swift in Sources */,
 			);
