@@ -1,10 +1,3 @@
-//
-//  SecondViewController.swift
-//  SecondKadaiApp
-//
-//  Created by NSPC201admin on 2024/01/17.
-//
-
 import UIKit
 
 class SecondViewController: UIViewController {
